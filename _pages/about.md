@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Boylston Hall, office 318 </p>
-    <p>90 Mt Auburn St, office 209 </p>
+    <p>Boylston Hall, 318 </p>
+    <p>90 Mt Auburn St, 209 (lab) </p>
     <p>Cambridge, MA</p>
     <p>tbondarenko@fas.harvard.edu</p>
 
