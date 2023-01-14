@@ -1,3 +1,16 @@
+"Bassi":
+  - firstname: ["Itai", "I."]
+    url: https://itaibassi.github.io/
+
+"Zompì":
+  - firstname: ["Stanislao", "Stan", "S."]
+    url: http://www.mit.edu/~zompi/
+
+"Davis":
+  - firstname: ["Colin", "C."]
+    url: https://sites.google.com/view/colinpbdavis/home
+
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
@@ -10,7 +23,7 @@
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
+"Bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
