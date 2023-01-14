@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>office 318 @ Boylston Hall </p>
-    <p>office 209 @ 90 Mt Auburn St (lab)</p>
+    <p>office 209 @ 90 Mt Auburn St </p>
     <p>Cambridge, MA</p>
     <p>tbondarenko@fas.harvard.edu</p>
 
@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in [Linguistics at Harvard](https://linguistics.fas.harvard.edu/).
+I am an Assistant Professor in [Linguistics at Harvard](https://linguistics.fas.harvard.edu/). I study syntax and semantics, and I do fieldwork. The topics I am thinking about lately are: semantics of clausal embedding, factivity alternations, polarity subjunctives, complex agreement systems, A-bar movement. Before coming to Harvard, I got my PhD at [MIT](https://linguistics.mit.edu/) in 2022, and Master's and Bachelor's degrees from [Lomonosov Moscow State University](http://tipl.philol.msu.ru/index.php).
