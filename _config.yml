@@ -47,7 +47,7 @@ rss_icon: true
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: false
+navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
@@ -121,7 +121,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false 
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
