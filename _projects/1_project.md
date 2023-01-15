@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CASES (Complementation, Argument Structure, Event Structure)
+title: argument structure & clausal embedding 
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
