@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CASES: Complementation, Argument Structure, Event Structure
+title: CASES (Complementation, Argument Structure, Event Structure)
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
