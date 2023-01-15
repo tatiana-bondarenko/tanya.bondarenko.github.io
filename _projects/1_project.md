@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: CASES: Complementation, Argument Structure, Event Structure
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: clausal embedding
 ---
 
 Every project has a beautiful feature showcase page.
