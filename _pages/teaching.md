@@ -17,7 +17,7 @@ nav_order: 5
 
 ### **Previous teaching experience**
 
-* **Syntax**: Introduction to Syntax (TA, CreteLing), Introduction to Generative Syntax (Instructor, LMSU, schoolchildren)
+* **Syntax**: Introduction to Syntax (TA, CreteLing), Introduction to Generative Syntax (Instructor (with Andrey Zavgorodny), LMSU, course for schoolchildren)
 * **Semantics**: Advanced Semantics (TA, MIT, graduate), Introduction to formal semantics (TA, NYI)
 * **Field Methods**: Field Methods in Linguistics (TA, MIT, undergraduate)
 * **Intro**: Introduction to Linguistics (TA, MIT, undergraduate)
