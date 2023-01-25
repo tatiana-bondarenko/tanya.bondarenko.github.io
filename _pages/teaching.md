@@ -13,7 +13,7 @@ nav_order: 5
 * Spring 2023. *Syntactic Theory II* (Ling 212, graduate class)
 * Spring 2023. (together with G. Chierchia) *Syntax-Semantics Interface: Events and Argument Structure* (Ling 205r, graduate seminar)
 
-<br>
+
 
 ### **Previous teaching experience**
 
