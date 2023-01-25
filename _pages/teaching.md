@@ -13,7 +13,7 @@ nav_order: 5
 * Spring 2023. *Syntactic Theory II* (Ling 212, graduate class)
 * Spring 2023. (together with G. Chierchia) *Syntax-Semantics Interface: Events and Argument Structure* (Ling 205r, graduate seminar)
 
-&NewLine;
+</p>
 
 ## **Previous teaching experience**
 
@@ -30,4 +30,4 @@ nav_order: 5
 * TA for *Field Methods in Linguistics* at MIT (24.909, undergraduate class, Language: Wolof, Instructor: Adam Albright), Fall 2018.
 
 ### Intro
-*  TA for *Introduction to Linguistics* (24.900, undergraduate class) at MIT (Instructor: David Pesetsky).
+*  TA for *Introduction to Linguistics* (24.900, undergraduate class) at MIT (Instructor: David Pesetsky).--->
