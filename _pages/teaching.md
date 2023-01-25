@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## **2022-2023**
+### **2022-2023**
 
 * Fall 2022. *Field Methods* (Ling 117r, graduate class)
 * Spring 2023. *Syntactic Theory II* (Ling 212, graduate class)
@@ -15,7 +15,12 @@ nav_order: 5
 
 <br>
 
-## **Previous teaching experience**
+### **Previous teaching experience**
+
+* **Syntax**: Introduction to Syntax (TA, CreteLing), Introduction to Generative Syntax (Instructor, LMSU)
+* **Semantics**: Advanced Semantics (TA, MIT, graduate), Introduction to formal semantics (TA, NYI)
+* **Field Methods**: Field Methods in Linguistics (TA, MIT, undergraduate)
+* **Intro**: Introduction to Linguistics (TA, MIT, undergraduate)
 
 <!---### Syntax
 * TA for *Introduction to Syntax* at the 2nd Crete Summer School of Linguistics (Instructor: Sabine Iatridou), 2018.
