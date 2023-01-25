@@ -15,12 +15,15 @@ nav_order: 5
 
 
 
-### **Previous teaching experience**
+### **Previous teaching experience as a TA**
 
-* **Syntax**: Introduction to Syntax (TA, CreteLing), Introduction to Generative Syntax (Instructor (with Andrey Zavgorodny), LMSU, course for schoolchildren)
-* **Semantics**: Advanced Semantics (TA, MIT, graduate), Introduction to formal semantics (TA, NYI)
-* **Field Methods**: Field Methods in Linguistics (TA, MIT, undergraduate)
-* **Intro**: Introduction to Linguistics (TA, MIT, undergraduate)
+* **Syntax**: Introduction to Syntax (CreteLing)
+* **Semantics**: Advanced Semantics (MIT, graduate), Introduction to formal semantics (NYI)
+* **Field Methods**: Field Methods in Linguistics (MIT, undergraduate)
+* **Intro**: Introduction to Linguistics (MIT, undergraduate)
+
+Back in 2013 -- 2014, I also taught *Introduction to Generative Syntax* for schoolchildren at Lomonosov Moscow State University together with Andrey Zavgorodny.
+
 
 <!---### Syntax
 * TA for *Introduction to Syntax* at the 2nd Crete Summer School of Linguistics (Instructor: Sabine Iatridou), 2018.
