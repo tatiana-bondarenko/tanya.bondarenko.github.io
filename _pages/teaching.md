@@ -13,9 +13,11 @@ nav_order: 5
 * Spring 2023. *Syntactic Theory II* (Ling 212, graduate class)
 * Spring 2023. (together with G. Chierchia) *Syntax-Semantics Interface: Events and Argument Structure* (Ling 205r, graduate seminar)
 
+&NewLine;
+
 ## **Previous teaching experience**
 
-### Syntax
+<!---### Syntax
 * TA for *Introduction to Syntax* at the 2nd Crete Summer School of Linguistics (Instructor: Sabine Iatridou), 2018.
 * Instructor (together with Andrey Zavgorodny) for *Introduction to the generative syntax*, seminar for schoolchildren at the Department of Structural and Applied Linguistics, Lomonosov Moscow State University, Sept. 2013 – May 2014.
 
