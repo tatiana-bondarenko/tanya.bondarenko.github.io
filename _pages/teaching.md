@@ -15,7 +15,7 @@ nav_order: 5
 
 
 
-### **Previous teaching experience as a TA**
+### **Previous teaching experience (Teacher's Assistant)**
 
 * **Syntax**: Introduction to Syntax (CreteLing)
 * **Semantics**: Advanced Semantics (MIT, graduate), Introduction to formal semantics (NYI)
