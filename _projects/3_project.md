@@ -1,8 +1,8 @@
 ---
 layout: page
-title: polairty subjunctives
+title: integration of embedded clauses  
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/arg-ev.jpg
 redirect: https://unsplash.com
 importance: 3
 category: clausal embedding

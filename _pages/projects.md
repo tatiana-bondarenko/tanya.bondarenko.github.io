@@ -1,13 +1,17 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description:
 nav: true
 nav_order: 2
-display_categories: [clausal embedding, A-bar dependencies, agreement, aspect, ellipsis]
+display_categories: [clausal embedding, A-bar dependencies, other topics, fieldwork]
 horizontal: false
 ---
+
+Could I write here about projects in general? I work on the following things:
+-argument structure
+-A-bar structure  
 
 <!-- pages/projects.md -->
 <div class="projects">

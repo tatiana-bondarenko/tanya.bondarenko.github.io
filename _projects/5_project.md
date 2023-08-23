@@ -1,10 +1,10 @@
 ---
 layout: page
-title: nominalizations
-description: a project with a background image
+title: questions
+description: Left Branch Extraction
 img: assets/img/1.jpg
-importance: 3
-category: clausal embedding
+importance: 5
+category: A-bar dependencies
 ---
 
 Every project has a beautiful feature showcase page.

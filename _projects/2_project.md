@@ -1,8 +1,8 @@
 ---
 layout: page
-title: meanings of embedded clauses
+title: semantics of clausal embedding
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/semantics.jpg
 importance: 2
 category: clausal embedding
 ---

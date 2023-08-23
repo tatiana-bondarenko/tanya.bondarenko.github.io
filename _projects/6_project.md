@@ -1,10 +1,10 @@
 ---
 layout: page
-title: voice restructuring
+title: locality
 description: a project with no image
 img:
-importance: 4
-category: clausal embedding
+importance: 6
+category: A-bar dependencies
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: hyperraising
+title: scrambling
 description: another without an image
 img:
-importance: 3
-category: clausal embedding
+importance: 4
+category: A-bar dependencies
 ---
 
 Every project has a beautiful feature showcase page.
