@@ -5,7 +5,7 @@ permalink: /research/
 description:
 nav: true
 nav_order: 2
-display_categories: [clausal embedding, A-bar dependencies, other topics, fieldwork]
+display_categories: [structure & meaning of the left periphery, A-bar dependencies, other topics, fieldwork]
 horizontal: false
 ---
 
