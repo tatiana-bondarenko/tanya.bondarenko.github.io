@@ -1,10 +1,10 @@
 ---
 layout: page
-title: syntax of clausal embedding
+title: Structure & Meaning of the Left Periphery
 description: a project with a background image
-img: assets/img/syntax.jpg
+img: assets/img/semantics.jpg
 importance: 1
-category: structure & meaning of the left periphery
+category: Building & Interpreting Structure
 ---
 
 What kinds of syntactic structures can embedded clauses have? Is there syntactic selection? How can clauses be nominalized?

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: semantics of clausal embedding
+title: Argument & Event structure
 description: a project with a background image
 img: assets/img/semantics.jpg
 importance: 2
-category: clausal embedding
+category: Building & Interpreting Structure
 ---
 
 Every project has a beautiful feature showcase page.

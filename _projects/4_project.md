@@ -1,10 +1,10 @@
 ---
 layout: page
-title: scrambling
+title: Factivity/Veridicality
 description: another without an image
 img:
 importance: 4
-category: A-bar dependencies
+category: Building & Interpreting Structure
 ---
 
 Every project has a beautiful feature showcase page.

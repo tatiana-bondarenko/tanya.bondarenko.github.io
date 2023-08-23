@@ -1,11 +1,11 @@
 ---
 layout: page
-title: integration of embedded clauses  
+title: Locality of Syntactic Dependencies 
 description: a project that redirects to another website
 img: assets/img/arg-ev.jpg
 redirect: https://unsplash.com
 importance: 3
-category: clausal embedding
+category: Building & Interpreting Structure
 ---
 
 Every project has a beautiful feature showcase page.

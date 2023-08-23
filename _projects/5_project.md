@@ -1,10 +1,10 @@
 ---
 layout: page
-title: questions
+title: Polarity
 description: Left Branch Extraction
 img: assets/img/1.jpg
 importance: 5
-category: A-bar dependencies
+category: Building & Interpreting Structure
 ---
 
 Every project has a beautiful feature showcase page.

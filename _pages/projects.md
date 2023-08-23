@@ -1,17 +1,15 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description:
 nav: true
 nav_order: 2
-display_categories: [structure & meaning of the left periphery, A-bar dependencies, other topics, fieldwork]
+display_categories: [Building & Interpreting Structure, Spelling Out Structure, Misc, Fieldwork]
 horizontal: false
 ---
 
-Could I write here about projects in general? I work on the following things:
--argument structure
--A-bar structure  
+In my research, I aim to uncover the general principles that restrict how  syntactic structures can be built and interpreted in natural languages, and why these principles should hold. I often use structures with clausal embedding as a lens through which to investigate such principles across a variety of research topics in syntax and semantics. Another component of my research is to understand how the syntactic structures that we build can be externalized\----what rules govern their linearization and exponence. In answering the questions above, I search for new phenomena and robust empirical generalizations that can better inform our theories, and thus fieldwork is a major component of my research process.
 
 <!-- pages/projects.md -->
 <div class="projects">

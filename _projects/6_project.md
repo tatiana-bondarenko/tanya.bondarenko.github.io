@@ -1,10 +1,10 @@
 ---
 layout: page
-title: locality
+title: CASES
 description: a project with no image
 img:
 importance: 6
-category: A-bar dependencies
+category: Building & Interpreting Structure
 ---
 
 Every project has a beautiful feature showcase page.
